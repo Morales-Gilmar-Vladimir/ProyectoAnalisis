@@ -22,16 +22,20 @@ Tal como se muestra aqui, con esto podremos visualizar todos los datasets en Sql
 ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/117743690/eb3452fd-8ffa-41b4-9666-39eba50e52c6)
 ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/117743690/acd9e320-ddca-473e-9ab6-c20bdfd157b0)
 ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/117743690/47fe6ee0-a8b3-43e2-8550-33823bbbed3f)
-
-    
-    ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/089265b3-4efb-4ae5-8a41-a409b6f9462f)
-    ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/d9b59fce-ab75-420b-9c0f-18afa4442ef6)
-12. ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/489c9454-f7c3-42cd-8143-8945b68e5085)
-    ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/9974009a-d506-4746-9c0e-6c65a075d4fe)
+4. En este punto deberemos importar los archivos de SqlLite en dos tandas, unos CSV y otros Json, los archivos CSV seran exportados 
+a MongoDB y los Json a CouchDB
+![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/089265b3-4efb-4ae5-8a41-a409b6f9462f) 
+![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/d9b59fce-ab75-420b-9c0f-18afa4442ef6)
+5. En el caso de MongoDB la aplicación nos permitira exportar de forma facil dichos datasets:
+![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/489c9454-f7c3-42cd-8143-8945b68e5085)
+![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/9974009a-d506-4746-9c0e-6c65a075d4fe)
+![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/ef78ab63-c91e-4e0e-8ee7-5c896af7c909)
+6. Para subir datasets a Couchdb, sera necesario utilizar lenguaje python, donde nos conectaremmos a dicha base de datos, cargaremos 
+dichos archivos 
 13. ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/69aaab24-83a6-4f5a-831e-82092e9876b1)
     ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/5ee26e9a-d1de-4b30-8366-a6af6a6d092c)
     ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/0a3dca4a-774e-49bc-b046-4d7d414e0e6c)
-14. ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/ef78ab63-c91e-4e0e-8ee7-5c896af7c909)
+
 15. ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/14c54252-c8a5-4b43-8fad-eb0027e7d84a)
 16. ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/8caf58d1-f162-42de-b63f-c0fb08f0a35a)
     ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/c1309f78-0992-45a4-8fce-0936c6fb5e0b)
