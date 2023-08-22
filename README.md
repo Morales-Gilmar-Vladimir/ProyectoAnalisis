@@ -12,23 +12,44 @@
 9. ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/117743690/eb3452fd-8ffa-41b4-9666-39eba50e52c6)
 10. ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/117743690/acd9e320-ddca-473e-9ab6-c20bdfd157b0)
     ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/117743690/47fe6ee0-a8b3-43e2-8550-33823bbbed3f)
-11. ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/fc44cd67-36e8-4b18-b012-eec7c62d0001)
-    ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/d53664ab-4a9d-47cb-8c82-c94f90b90ab7)
-    ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/d39d776b-4d65-4de7-852c-0a1d23cb699d)
-    ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/dda48037-9305-4ff9-9715-31f218a56104)
-12. ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/992dc709-01c5-415d-b81f-4cf322ac2cfc)
-    ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/da97a904-5fc9-4e6a-9823-3c4b5a26e118)
-13. ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/3a606087-dd0a-4650-afb6-46e4828dfe85)
-    ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/9983a025-cffa-435a-bede-9c4a152d9ee0)
-    ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/f33e9b92-1199-4fb2-a295-f5b60c730b19)
-14. ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/fb74b096-25f8-43b3-b49f-be305fe07328)
-15. ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/d10a0f4e-bc80-432a-abdf-958d8a8e8242)
-16. ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/4a8c95dd-fac8-4069-982d-e2aa99eab4f3)
-    ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/3e976425-d732-46a6-846e-000386a6dcc3)
-17. ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/afbaa2c4-f1a0-484d-ae11-911def99ec0a)
-    ![Uploading image.png…]()
-18. ![Uploading image.png…]()
-19. ![Uploading image.png…]()
+11. ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/51713101-57bf-4cf3-8e5e-d14edce14464)
+    ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/f688c1f5-ce5a-41c7-a1ea-1f9c5d4e95a6)
+    ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/089265b3-4efb-4ae5-8a41-a409b6f9462f)
+    ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/d9b59fce-ab75-420b-9c0f-18afa4442ef6)
+12. ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/489c9454-f7c3-42cd-8143-8945b68e5085)
+    ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/9974009a-d506-4746-9c0e-6c65a075d4fe)
+13. ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/69aaab24-83a6-4f5a-831e-82092e9876b1)
+    ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/5ee26e9a-d1de-4b30-8366-a6af6a6d092c)
+    ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/0a3dca4a-774e-49bc-b046-4d7d414e0e6c)
+14. ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/ef78ab63-c91e-4e0e-8ee7-5c896af7c909)
+15. ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/14c54252-c8a5-4b43-8fad-eb0027e7d84a)
+16. ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/8caf58d1-f162-42de-b63f-c0fb08f0a35a)
+    ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/c1309f78-0992-45a4-8fce-0936c6fb5e0b)
+17. ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/c283c74c-4898-4c0b-b672-2b9ca310b2ac)
+    ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/a20c452a-285b-4b89-ac0f-a460cd2cc37f)
+18. ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/549ac445-f6ad-4002-9739-1a059bf20bb2)
+19. ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/f1c7991a-5230-47dc-bb15-ae063c0472ba)
+20. ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/d087802c-024c-45b9-b0a1-dc006f8236a6)
+21. ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/c252179a-6e10-4672-a69b-8e976df64492)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
