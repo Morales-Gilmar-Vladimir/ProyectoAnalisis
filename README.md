@@ -1,14 +1,15 @@
 # ProyectoAnalisis 
 -Proceso Primera parte
-Para este proyecto deberemos obtener diferentes datos, los mismo tendran diferentes formatos, tales como
+1. Para este proyecto deberemos obtener diferentes datos, los mismo tendran diferentes formatos, tales como
 CSV, JSON, XLSX y sqlLite, los cuales contiene tematicas como peliculas, restaurantes, deportes y hobies:
-1. ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/117743690/d96e9102-6825-4f23-9a1a-89225794232f)
-Para este proyecto utilizaremos las siguientes bases de datos, las mismas son estructuradas(SqlLite, SqlServer) y  no estrucuturadas
+![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/117743690/d96e9102-6825-4f23-9a1a-89225794232f)
+2. Para este proyecto utilizaremos las siguientes bases de datos, las mismas son estructuradas(SqlLite, SqlServer) y  no estrucuturadas
 (RavenDB,CouchDB,MongoDB):
-2. ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/117743690/dee0ef10-fa20-4094-9128-ee9759701ea7)
+![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/117743690/dee0ef10-fa20-4094-9128-ee9759701ea7)
 
 3. Obteniendo dichos datasets, ahora los subiremos a SqlLite, para lo cual varios archivos tendran que cambiar sus formatos,
-en este caso se convertira los JSON Y XLSX en CSV,
+en este caso se convertira los JSON Y XLSX en CSV.
+
 ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/117743690/b5bcef0e-2f98-4ef9-bf4c-d6ef9d286db1)
 ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/f688c1f5-ce5a-41c7-a1ea-1f9c5d4e95a6)
 Tal como se muestra aqui, con esto podremos visualizar todos los datasets en SqlLite:
