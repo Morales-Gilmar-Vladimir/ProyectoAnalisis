@@ -26,6 +26,7 @@ Tal como se muestra aqui, con esto podremos visualizar todos los datasets en Sql
 a MongoDB y los Json a CouchDB
 ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/089265b3-4efb-4ae5-8a41-a409b6f9462f) 
 ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/d9b59fce-ab75-420b-9c0f-18afa4442ef6)
+![imagen](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/117743844/e9e0c1e4-9532-4235-b8c6-fc7952e531e1)
 5. En el caso de MongoDB la aplicación nos permitira exportar de forma facil dichos datasets:
 ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/489c9454-f7c3-42cd-8143-8945b68e5085)
 ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/9974009a-d506-4746-9c0e-6c65a075d4fe)
