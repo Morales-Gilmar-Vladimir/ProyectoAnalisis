@@ -1,5 +1,14 @@
 # ProyectoAnalisis 
 
+Integrantes:
+
+Hidalgo Paul
+
+Morales Gilmar 
+
+Ruiz Erick
+
+
 --LINKS VIDEOS DEL PROYECTO
 
 PARTE 1: https://youtu.be/dX2ZFY7Qhrs 
