@@ -1,4 +1,11 @@
 # ProyectoAnalisis 
+
+--LINKS VIDEOS DEL PROYECTO
+
+PARTE 1: https://youtu.be/dX2ZFY7Qhrs 
+
+PARTE 2: https://youtu.be/U1O41tngn9g 
+
 -Proceso Primera parte
 1. Para este proyecto deberemos obtener diferentes datos, los mismo tendran diferentes formatos, tales como
 CSV, JSON, XLSX y sqlLite, los cuales contiene tematicas como peliculas, restaurantes, deportes y hobies:
@@ -70,6 +77,19 @@ los diferentes datos que posee cada base y sus diferentes conversiones.
 
 ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/d087802c-024c-45b9-b0a1-dc006f8236a6)
 ![image](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/112398547/c252179a-6e10-4672-a69b-8e976df64492)
+
+10. Debido a que es necesario utilizar 10 millosnes de datos se ha utilizado un dataset extra, con la temática del covid-19:
+    
+![imagen](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/117743844/6ec34695-f223-4e3e-bd61-7376040d529d)
+
+Por último, haciendo uso de la herramienta POWERBI desktop, realizaremos analisis de todos, misma nos proporciona diferentes cuadros para realizar un mejor análisis de cada datos:
+
+![Imagen de WhatsApp 2023-09-11 a las 15 36 24](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/117743844/2c1cd28e-2079-46d7-af78-87a3d55ace7d)
+![Imagen de WhatsApp 2023-09-11 a las 15 46 10](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/117743844/5049f714-f76c-489c-990e-33d348ad8187)
+![imagen](https://github.com/Morales-Gilmar-Vladimir/ProyectoAnalisis/assets/117743844/7d6d3fb0-e6a6-45d3-b544-8ebcadb847da)
+
+
+
 
 
 
